@@ -2,6 +2,7 @@
 
 # wppost.py
 # by Ben Steward
+# Revision 0
 # a shellscript to make writing wordpress posts using WP-CLI a lil easier.
 
 import subprocess
